@@ -1,5 +1,5 @@
 # Songs - React - Redux
-Example project to display song info
+Example project to display song info, is overkill to use redux, just a demo to show wiring them up together
 
 
 # Getting Started with Create React App
